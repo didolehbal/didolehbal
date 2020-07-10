@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, this is Mehdi
 
 <!--
 **didolehbal/didolehbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a student at ENSET-M, major in big data and cloud computing.
+
+I'm also a part-time Fullstack freelancer.
+
+My current main stack is : nodejs typescript nestjs react and react-native.
+
+Want to chat with me :3? Here is my discord : Hors#5303.
