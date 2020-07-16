@@ -20,4 +20,4 @@ I'm also a part-time Fullstack freelancer.
 
 My current main stack is : nodejs typescript nestjs graphql react react-native & electronjs.
 
-Want to chat with me :3? Here is my discord : Hors#5303.
+Want to chat? Here is my discord : Hors#5303.
