@@ -19,5 +19,3 @@ I'm a student at ENSET-M, major in big data and cloud computing.
 I'm also a part-time Fullstack freelancer.
 
 My current main stack is : nodejs typescript nestjs graphql react react-native & electronjs.
-
-Want to chat? Here is my discord : Hors#5303.
